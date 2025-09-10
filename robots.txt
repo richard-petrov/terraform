@@ -1,0 +1,1 @@
+Sitemap: https://rpetrov.github.io/terraform/sitemap.xml
